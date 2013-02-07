@@ -20,7 +20,6 @@ public class SimpleClient {
         
         System.out.println(br.readLine());
         System.out.println(br1.readLine());
-        
     }
 
 }
